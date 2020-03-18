@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ccaf2b51b9dd45419d83e2f3080f636
+timeCreated: 1495958230
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Falling Sky
+  fontNames:
+  - Falling Sky
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

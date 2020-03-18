@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 752ae57e58e60104fb9c5885f3ae9585
+timeCreated: 1495992156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TrangTri_0
+    21300002: TrangTri_1
+    21300004: TrangTri_2
+    21300006: TrangTri_3
+    21300008: TrangTri_4
+    21300010: TrangTri_5
+    21300012: TrangTri_6
+    21300014: TrangTri_7
+    21300016: TrangTri_8
+    21300018: TrangTri_9
+    21300020: TrangTri_10
+    21300022: TrangTri_11
+    21300024: TrangTri_12
+    21300026: TrangTri_13
+    21300028: TrangTri_14
+    21300030: TrangTri_15
+    21300032: TrangTri_16
+    21300034: TrangTri_17
+    21300036: TrangTri_18
+    21300038: TrangTri_19
+    21300040: TrangTri_20
+    21300042: TrangTri_21
+    21300044: TrangTri_22
+    21300046: TrangTri_23
+    21300048: TrangTri_24
+    21300050: TrangTri_25
+    21300052: TrangTri_26
+    21300054: TrangTri_27
+    21300056: TrangTri_28
+    21300058: TrangTri_29
+    21300060: TrangTri_30
+    21300062: TrangTri_31
+    21300064: TrangTri_32
+    21300066: TrangTri_33
+    21300068: TrangTri_34
+    21300070: TrangTri_35
+    21300072: TrangTri_36
+    21300074: TrangTri_37
+    21300076: TrangTri_38
+    21300078: TrangTri_39
+    21300080: TrangTri_40
+    21300082: TrangTri_41
+    21300084: TrangTri_42
+    21300086: TrangTri_43
+    21300088: TrangTri_44
+    21300090: TrangTri_45
+    21300092: TrangTri_46
+    21300094: TrangTri_47
+    21300096: TrangTri_48
+    21300098: TrangTri_49
+    21300100: TrangTri_50
+    21300102: TrangTri_51
+    21300104: TrangTri_52
+    21300106: TrangTri_53
+    21300108: TrangTri_54
+    21300110: TrangTri_55
+    21300112: TrangTri_58
+    21300114: TrangTri_59
+    21300116: TrangTri_60
+    21300118: TrangTri_61
+    21300120: TrangTri_62
+    21300122: TrangTri_65
+    21300124: TrangTri_66
+    21300126: TrangTri_67
+    21300128: TrangTri_68
+    21300130: TrangTri_69
+    21300132: TrangTri_70
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrangTri_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 285
+        width: 208
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 332
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 284
+        width: 148
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 369
+        width: 206
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 381
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 371
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 300
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 301
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 321
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 316
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 310
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 298
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 252
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 268
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 285
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 220
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 288
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 268
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 208
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 220
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_22
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 257
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 236
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 220
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 220
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 220
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_28
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 220
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_29
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 220
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_30
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 220
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_31
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 220
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_32
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 227
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_33
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 204
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_34
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 236
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_35
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 228
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 221
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_37
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 204
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 204
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 204
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 204
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 188
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 188
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 187
+        width: 151
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_44
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 188
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 188
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_46
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 161
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 188
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 156
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_49
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 156
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 172
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 156
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 156
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 156
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_54
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 276
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 156
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 156
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 156
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 156
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_61
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 156
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_62
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 121
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_68
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 121
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_69
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 121
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrangTri_70
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 136
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

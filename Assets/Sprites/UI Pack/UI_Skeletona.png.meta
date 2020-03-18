@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 6cbf470a469532f448a715db8523acde
+timeCreated: 1494340421
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Skeletona_0
+    21300002: UI_Skeletona_1
+    21300004: UI_Skeletona_2
+    21300006: UI_Skeletona_3
+    21300008: UI_Skeletona_4
+    21300010: UI_Skeletona_5
+    21300012: UI_Skeletona_6
+    21300014: UI_Skeletona_7
+    21300016: UI_Skeletona_8
+    21300018: UI_Skeletona_9
+    21300020: UI_Skeletona_10
+    21300022: UI_Skeletona_11
+    21300024: UI_Skeletona_12
+    21300026: UI_Skeletona_13
+    21300028: UI_Skeletona_14
+    21300030: UI_Skeletona_15
+    21300032: UI_Skeletona_16
+    21300034: UI_Skeletona_17
+    21300036: UI_Skeletona_18
+    21300038: UI_Skeletona_19
+    21300040: UI_Skeletona_20
+    21300042: UI_Skeletona_23
+    21300044: UI_Skeletona_24
+    21300046: UI_Skeletona_25
+    21300048: UI_Skeletona_26
+    21300050: UI_Skeletona_27
+    21300052: UI_Skeletona_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Skeletona_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1738
+        width: 329
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1669
+        width: 289
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1686
+        width: 327
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1668
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1627
+        width: 531
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1570
+        width: 327
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1448
+        width: 577
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1447
+        width: 576
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_8
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1438
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_9
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1428
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_10
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1436
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1224
+        width: 838
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1383
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_13
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1262
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1377
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1320
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_16
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1318
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1282
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_18
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1299
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_19
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1219
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_20
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1225
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 682
+        width: 821
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 668
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 653
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 822
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Skeletona_29
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 135
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

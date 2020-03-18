@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e669f49f8716457459c758c8a96bca04
+timeCreated: 1494339956
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nevis
+  fontNames:
+  - Nevis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf6fb6ff27d888b4da41e3aeb2f57847
+timeCreated: 1495958230
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rainy Days
+  fontNames:
+  - Rainy Days
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

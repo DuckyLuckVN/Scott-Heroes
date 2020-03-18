@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 1a6132a6bc25bdc4dba8b4f99ba50e2e
+timeCreated: 1496318964
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KhungLongVang_0
+    21300002: KhungLongVang_1
+    21300004: KhungLongVang_2
+    21300006: KhungLongVang_3
+    21300008: KhungLongVang_4
+    21300010: KhungLongVang_5
+    21300012: KhungLongVang_6
+    21300014: KhungLongVang_7
+    21300016: KhungLongVang_8
+    21300018: KhungLongVang_9
+    21300020: KhungLongVang_10
+    21300022: KhungLongVang_11
+    21300024: KhungLongVang_12
+    21300026: KhungLongVang_13
+    21300028: KhungLongVang_14
+    21300030: KhungLongVang_15
+    21300032: KhungLongVang_16
+    21300034: KhungLongVang_17
+    21300036: KhungLongVang_18
+    21300038: KhungLongVang_19
+    21300040: KhungLongVang_20
+    21300042: KhungLongVang_21
+    21300044: KhungLongVang_22
+    21300046: KhungLongVang_23
+    21300048: Dinosaurs_0
+    21300050: Dinosaurs_1
+    21300052: Dinosaurs_2
+    21300054: Dinosaurs_3
+    21300056: Dinosaurs_4
+    21300058: Dinosaurs_5
+    21300060: Dinosaurs_6
+    21300062: Dinosaurs_7
+    21300064: Dinosaurs_8
+    21300066: Dinosaurs_9
+    21300068: Dinosaurs_10
+    21300070: Dinosaurs_11
+    21300072: Dinosaurs_12
+    21300074: Dinosaurs_13
+    21300076: Dinosaurs_14
+    21300078: Dinosaurs_15
+    21300080: Dinosaurs_16
+    21300082: Dinosaurs_17
+    21300084: Dinosaurs_18
+    21300086: Dinosaurs_19
+    21300088: Dinosaurs_20
+    21300090: Dinosaurs_21
+    21300092: Dinosaurs_22
+    21300094: Dinosaurs_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 90
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dinosaurs_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 320
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 320
+        width: 116
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 320
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 320
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 215
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 217
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 219
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 218
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 215
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_11
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 219
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 116
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 110
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 110
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_16
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 117
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 115
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 23
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 24
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 5
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 5
+        width: 116
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinosaurs_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
