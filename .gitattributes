@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
-*.C# linguist-detectable=true
+*.sol linguist-language=Solidity
+*.C# linguist-detectable=false
 *.Unity3D linguist-detectable=true
